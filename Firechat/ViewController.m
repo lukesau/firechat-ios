@@ -10,7 +10,7 @@
 
 #import "ViewController.h"
 
-#define kFirechatNS @"https://firechat-ios.firebaseio-demo.com/"
+#define kFirechatNS @"https://lukesauchat.firebaseio.com/"
 
 @implementation ViewController
 
